@@ -1,6 +1,6 @@
 img {
     margin-inline-end: 10px;
-    max-width: 19vw;
+    max-width: 20vw;
     height: var(--imgHeight);
     display: inline;
     transition: 1s;
