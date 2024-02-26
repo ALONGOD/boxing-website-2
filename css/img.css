@@ -1,7 +1,7 @@
 img {
     margin-inline-end: 10px;
     max-width: 20vw;
-    height: var(--imgHeight);
+    height: 27vh;
     display: inline;
     transition: 1s;
     z-index: 1;
