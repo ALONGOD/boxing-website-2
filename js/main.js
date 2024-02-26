@@ -10,6 +10,6 @@ function onInit() {
 
 
 function imgClick(elImg) {
-    elImg.style.scale = 2
+    elImg.style.scale = 1.5
     setTimeout(() => elImg.style.scale = 1, 2000)
 }

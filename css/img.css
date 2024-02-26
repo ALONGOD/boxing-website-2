@@ -1,11 +1,13 @@
 img {
-    max-width: 20vw;
+    max-width: 16vw;
     height: var(--imgHeight);
     display: inline;
     transition: 1s;
 }
 
 .images {
+    margin-left: 20px;
+    margin-right: 20px;
     display: flex;
     justify-content: center;
     margin-bottom: 2rem;

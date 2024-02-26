@@ -1,13 +1,13 @@
 @media screen and (max-width: 720px) {
     :root {
-        font-size: 12px;
+        font-size: 14px;
         --imgHeight: 150px;
     }
 }
 
 @media screen and (min-width: 720px) {
     :root {
-        font-size: 16px;
+        font-size: 20px;
         --imgHeight: 300px;
     }
 }
